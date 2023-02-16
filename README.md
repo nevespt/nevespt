@@ -19,7 +19,7 @@
 ---
 
 I am a full-stack software programmer. I love programming, listen to music, anime and gaming.
-Currenty working at [Altyra Solutions](https://altyra.com/) (Lisbon, Portugal)
+Currenty working at [Deloitte Portugal](https://www2.deloitte.com/pt/pt.html) (Lisbon, Portugal)
 As a programmer, I enjoy using my obsessive attention to detail, obsession for the perfection in every single detail, always trying to think in user friendly first but also being atractive. That's why I like to make things that make a difference and trying new things.
 
 <br>
@@ -32,7 +32,7 @@ As a programmer, I enjoy using my obsessive attention to detail, obsession for t
 
 
 - 👨🏻‍💻 I’m currently working on cool projects;
-- 🚀 I’m currently learning flutter and dart;
+- 🚀 I’m currently learning ABAP and SAP;
 - 💬 Ask me about anything, I am happy to help;
 - 📺 MyAnimeList: [NevesPT](https://myanimelist.net/animelist/NevesPT)
 - 🍥 Anime Lover and Ex-Uploader at [DreamAnimes / Anihub](https://anihub.tv/perfil/nevespt)
