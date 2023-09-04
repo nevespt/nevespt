@@ -32,7 +32,7 @@ As a programmer, I enjoy using my obsessive attention to detail, obsession for t
 
 
 - 👨🏻‍💻 I’m currently working on cool projects;
-- 🚀 I’m currently learning ABAP and SAP;
+- 🚀 I’m currently learning ABAP and FIORI;
 - 💬 Ask me about anything, I am happy to help;
 - 📺 MyAnimeList: [NevesPT](https://myanimelist.net/animelist/NevesPT)
 - 🍥 Anime Lover and Ex-Uploader at [DreamAnimes / Anihub](https://anihub.tv/perfil/nevespt)
@@ -47,7 +47,6 @@ As a programmer, I enjoy using my obsessive attention to detail, obsession for t
 
 **▼ Other informations:**
 <p align="">
-  <img src="https://0spotify-github-profile-red-ten.vercel.app/api/view?uid=1179275744&cover_image=true&theme=natemoo-re"><br>
   <img src="https://anime-github-status-oaxwxprbv-animestatus.vercel.app/api?show_bg=1&username=nevespt&show_icons=true"><br>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=nevespt&theme=slateorange&hide_border=true&stroke=34343400&sideLabels=3080ED&fire=3080ED&ring=343434&currStreakNum=3080ED&sideNums=3080ED&currStreakLabel=3080ED&background=FFFEFE&dates=343434"><br>
  <small>* The graphs shows data of public repos</small>
