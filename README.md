@@ -23,8 +23,6 @@ Currenty working at [Deloitte Portugal](https://www2.deloitte.com/pt/pt.html) (L
 As a programmer, I enjoy using my obsessive attention to detail, obsession for the perfection in every single detail, always trying to think in user friendly first but also being atractive. That's why I like to make things that make a difference and trying new things.
 
 <br>
-<br>
-<br>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="200"  />
 
