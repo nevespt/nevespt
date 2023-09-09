@@ -28,14 +28,14 @@ As a programmer, I enjoy using my obsessive attention to detail, obsession for t
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="200"  />
 
-**▼ Talking about Personal Stuffs:**
 
 
-- 👨🏻‍💻 I’m currently working on cool projects;
-- 🚀 I’m currently learning ABAP and FIORI;
-- 💬 Ask me about anything, I am happy to help;
-- 📺 MyAnimeList: [NevesPT](https://myanimelist.net/animelist/NevesPT)
-- 🍥 Anime Lover and Ex-Uploader at [DreamAnimes / Anihub](https://anihub.tv/perfil/nevespt)
+> **Talking about Personal Stuffs:** <br>
+> 👨🏻‍💻 I’m currently working on cool projects; <br>
+> 🚀 I’m currently learning ABAP and FIORI; <br>
+> 💬 Ask me about anything, I am happy to help; <br>
+> 📺 MyAnimeList: [NevesPT](https://myanimelist.net/animelist/NevesPT) <br>
+> 🍥 Anime Lover and Ex-Uploader at [DreamAnimes / Anihub](https://anihub.tv/perfil/nevespt)
 
 <br>
 <br>
