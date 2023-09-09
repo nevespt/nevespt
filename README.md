@@ -36,7 +36,10 @@ As a programmer, I enjoy using my obsessive attention to detail, obsession for t
 - 💬 Ask me about anything, I am happy to help;
 - 📺 MyAnimeList: [NevesPT](https://myanimelist.net/animelist/NevesPT)
 - 🍥 Anime Lover and Ex-Uploader at [DreamAnimes / Anihub](https://anihub.tv/perfil/nevespt)
-- 📝 Resume not avalible at the moment.
+
+  
+> [!IMPORTANT]  
+> 📝 Resume not avalible since im already working.
 
 <br>
 <br>
