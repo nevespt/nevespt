@@ -30,7 +30,7 @@ As a programmer, I enjoy using my obsessive attention to detail, obsession for t
 
 > **Talking about Personal Stuffs:** <br>
 > 👨🏻‍💻 I’m currently working on cool projects; <br>
-> 🚀 I’m currently learning ABAP and FIORI; <br>
+> 🚀 I’m currently learning GODOT Script and Python; <br>
 > 💬 Ask me about anything, I am happy to help; <br>
 > 📺 MyAnimeList: [NevesPT](https://myanimelist.net/animelist/NevesPT) <br>
 > 🍥 Anime Lover and Ex-Staff at [DreamAnimes / Anihub](https://anihub.tv/perfil/nevespt)
