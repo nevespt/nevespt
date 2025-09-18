@@ -19,7 +19,7 @@
 ---
 
 I am a full-stack software programmer. I love programming, listen to music, anime and gaming.
-Currenty working at [Deloitte Portugal](https://www2.deloitte.com/pt/pt.html) (Lisbon, Portugal)
+Currenty working at [FundManager](https://fundmanager.pt) (Lisbon, Portugal)
 As a programmer, I enjoy using my obsessive attention to detail, obsession for the perfection in every single detail, always trying to think in user friendly first but also being atractive. That's why I like to make things that make a difference and trying new things.
 
 <br>
